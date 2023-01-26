@@ -1,4 +1,4 @@
-#Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) Git eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
